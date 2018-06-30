@@ -15,7 +15,7 @@ Section 2:
   
  Section 3 
  
-a)	Sonar lint / EclEmma scan Snapshot 
+a)	Sonar lint scan Snapshot 
 
 b)	Final Output Snapshot 
 
